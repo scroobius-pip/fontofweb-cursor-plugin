@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fontofweb": {
+      "url": "https://mcp.fontofweb.com/mcp",
+      "transport": "streamable-http"
+    }
+  }
+}

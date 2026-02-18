@@ -1,0 +1,11 @@
+{
+  "name": "fontofweb",
+  "displayName": "Font of Web",
+  "version": "0.1.0",
+  "description": "Design inspiration, font discovery, and design token extraction. Search millions of design pins, discover fonts, and export design tokens for any website.",
+  "author": {
+    "name": "Font of Web"
+  },
+  "keywords": ["fonts", "design", "inspiration", "tokens", "typography", "colors"],
+  "logo": "assets/logo.svg"
+}
