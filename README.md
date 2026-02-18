@@ -182,7 +182,6 @@ No authentication required for basic usage. Some features may require a Font of 
 ## Links
 
 - [Font of Web](https://fontofweb.com) - Main platform
-- [Documentation](https://fontofweb.com/docs) - Full documentation
 - [MCP Server](https://mcp.fontofweb.com/mcp) - MCP endpoint
 
 ## License
