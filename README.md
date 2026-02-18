@@ -4,7 +4,7 @@ Design inspiration, font discovery, and design token extraction for Cursor IDE. 
 
 ## Features
 
-- **Design Inspiration Search**: Find visual design references from millions of curated website screenshots
+- **Design Inspiration Search**: Find visual design references from thousands of curated website screenshots
 - **Font Discovery**: Search and research fonts used across the web
 - **Design Token Export**: Extract colors, typography, and spacing from any website
 - **Color Operations**: Convert, adjust, and analyze colors for design systems
